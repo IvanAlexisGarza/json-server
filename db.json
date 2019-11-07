@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alexis",
+      "description": "ITjuana Developer"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "another comment",
+      "postId": 1
+    },
+    {
+      "body": "more comment",
+      "id": 3
+    },
+    {
+      "body": "alex comment",
+      "name": "Alexis",
+      "id": 4
+    },
+    {
+      "body": "Hola JC",
+      "name": "Juan Carlos",
+      "id": 5
+    }
+  ]
+}
